@@ -1,28 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jaime</h1>
 <h3 align="center">Software Engineering Student</h3>
-<h4 align="left">Some projects i have contributed to...</h4>
-<ul>
-  <li>
-    <a href="https://github.com/2tank/awita" target="_blank"> 
-      Awita
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/VctPerez/Chess2-UMA" target="_blank"> 
-      Chess2
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/pablomarquezb78/how2survive" target="_blank"> 
-       how2survive
-    </a>
-  </li>
-</ul>
 
-<h3 align="left">Languages and Tools:</h3>
+### Some projects I have contributed to...
+- [Awita](https://github.com/2tank/awita)
+- [Chess2](https://github.com/VctPerez/Chess2-UMA)
+- [how2survive](https://github.com/pablomarquezb78/how2survive)
 
-<p align="left"> 
-  <a href="https://www.java.com/es/" target="_blank"> 
+### Languages and Tools:
+<p align="left">
+  <a href="https://www.java.com/es/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="Java" width="40" height="40"/> 
   </a>
   <a href="https://isocpp.org/" target="_blank"> 
@@ -60,11 +46,8 @@
   </a>
 </p>
 
-------
-<h3 align="left">Connect with me:</h3>
-<div align="left">
+---
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-ezequiel-rodríguez-rodríguez-331028334)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaezro03@gmail.com)
-  
-</div>
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-ezequiel-rodríguez-rodríguez-331028334)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaezro03@gmail.com)
