@@ -47,6 +47,8 @@
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiRodRod&layout=compact)](https://github.com/SrGobi/github-readme-stats)
+
 ---
 
 ### Connect with me:
