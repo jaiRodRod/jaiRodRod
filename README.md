@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineering Student</h3>
 
 ### Some projects I have contributed to...
-- [EGAW](https://github.com/jaiRodRod/EGAW)
 - [Awita](https://github.com/2tank/awita)
 - [Chess2](https://github.com/VctPerez/Chess2-UMA)
 - [how2survive](https://github.com/pablomarquezb78/how2survive)
